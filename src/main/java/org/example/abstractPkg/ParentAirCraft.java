@@ -1,4 +1,4 @@
-package org.example;
+package org.example.abstractPkg;
 
 public abstract class ParentAirCraft
 {

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.interfaceDemoPkg;
 
 public class InterfaceImplementation implements CentralTrafficInterfaceDemo,AnotherNewInterface
 {
