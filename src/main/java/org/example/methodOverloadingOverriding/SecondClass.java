@@ -7,7 +7,7 @@ public class SecondClass extends MethodOverloading
     public SecondClass()
     {
         super();// this should be always be at first line
-        System.out.println("child class construtor");
+        System.out.println("child class constructor");
     }
 
     public static void main(String[] args) {
