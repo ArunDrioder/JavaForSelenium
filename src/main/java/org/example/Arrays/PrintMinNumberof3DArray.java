@@ -3,7 +3,7 @@ package org.example.Arrays;
 public class PrintMinNumberof3DArray
 {
 
-    //Thie below java program will print the smallest number of the 3D Array & also it will print the largest number
+    //This below java program will print the smallest number of the 3D Array & also it will print the largest number
     //of the column of which the smallest number is located.
     public static void main(String[] args) {
         int abc[][]={{2,4,5},{3,2,10},{1,2,0}};

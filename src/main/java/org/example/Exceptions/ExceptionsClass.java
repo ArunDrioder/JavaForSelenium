@@ -7,7 +7,7 @@ public class ExceptionsClass
         int b=7; int c=0;
         try {
             int k=b/c;
-             int arr[]=new int[5];
+             int[] arr =new int[5];
             System.out.println(arr[7]);
              }
              catch(ArithmeticException et)

@@ -7,7 +7,8 @@ public class SpicejectClass extends ParentAirCraft
         SpicejectClass sClass = new SpicejectClass();
         sClass.engine();
         sClass.safety();
-        sClass.engine();
+        sClass.bodyColour();
+
 
     }
 
